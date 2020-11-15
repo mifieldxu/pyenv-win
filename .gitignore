@@ -109,3 +109,4 @@ version
 versions/
 exec.bat
 
+pyenv-win/.versions_cache.xml
